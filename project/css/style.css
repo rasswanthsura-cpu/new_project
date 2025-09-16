@@ -1,0 +1,141 @@
+
+.pagecenter{float:none; width:100%;margin:0 auto; max-width:90%;}
+
+
+body {
+	
+	background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4) 100%),url("../images/school.webp");
+    background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+.header {
+	float: left;
+	width: 100%;
+
+
+}
+.photo {
+  float: left;
+  width: 25%;
+}
+.menu {
+  float: left;
+  width: 50%;
+ 
+}
+.icons {
+  float: right;
+  width: 22%;
+}
+.menu h2 {
+	font-size: 28px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Permanent Marker", cursive;
+	font-weight: 100;
+	color: wheat;
+	margin:0;
+}
+
+.menu p {
+	font-size: 14px;
+	text-align: center;
+	
+	font-family: "Permanent Marker", cursive;
+	font-weight: 100;
+	color: wheat;
+	padding: 0em 3em 0em 3em;
+}
+
+.socialicons {
+	font-size: 24px;
+	text-align: right;
+	padding: 1em 2em 1em 2em;
+}
+.fa.fa-facebook {
+	margin: 1em 0.25em 1em 0.25em;
+
+  border: 1px solid wheat;
+  padding: 0.25em 0.25em 0.25em 0.25em;
+  border-radius: 25%;
+  color:wheat
+}
+.fa.fa-instagram{
+	margin: 1em 0.25em 1em 0.25em;
+
+  border: 1px solid wheat;
+  padding: 0.25em 0.25em 0.25em 0.25em;
+  border-radius: 25%;
+  color:wheat
+}
+.fa.fa-twitter {
+	margin: 1em 0.25em 1em 0.25em;
+	
+  border: 1px solid wheat;
+  padding: 0.25em 0.25em 0.25em 0.25em;
+  border-radius: 25%;
+  color:wheat
+}
+
+.marquee {
+	text-transform: uppercase;
+}
+ 
+marquee{
+	text-align: center;
+	font-size: 62px;
+	color: wheat;
+	text-transform: uppercase;
+    font-family: "Permanent Marker", cursive;
+    border: 2px solid wheat;
+    border-radius: 30px;
+    margin: 0em 0em 0em 0em;
+}
+
+
+table {
+	font-size: 48px;
+	color:wheat;
+	margin-top:1em;
+	margin-bottom:0;
+}
+th {
+	font-size: 30px;
+	font-family: "Permanent Marker", cursive;
+	color: #563732;
+  font-weight: 100;
+  background: wheat;
+
+}
+tr {
+	font-size: 30px;
+	font-family: "Permanent Marker", cursive;
+	font-weight:100;
+	background: #563732;
+}
+
+
+.tabble {
+	background-image: url(../images/boy.png),url(../images/girl.png);
+	background-repeat: no-repeat;
+	background-size: 26%;
+	background-position: right,left;
+	padding: 8em;
+}
+
+.col {
+	transform: rotate(270deg);
+	font-size: 43px;
+
+}
+.row {
+	text-align: center;
+}
+.photo img {
+	font-size: ;
+	height: 104px;
+	padding: 0em 2em;
+	border: 1px solid white;
+	border-radius: 56%;
+	background: wheat;
